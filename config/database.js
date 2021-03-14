@@ -3,14 +3,11 @@ const fs = require('fs');
 
 
 module.exports = mysql.createPool({
-    host: '34.93.201.200',
-    user: 'root',
-    password: 'admin',
-    ssl: {
-        ca: fs.readFileSync('./documents/ssl-keys-8/server-ca.pem'),
-        key: fs.readFileSync('./documents/ssl-keys-8/client-key.pem'),
-        cert: fs.readFileSync('./documents/ssl-keys-8/client-cert.pem')
-    }
+    user: 'dev',
+    host: '34.101.117.36',
+    database: 'main_db',
+    port: 3306,
+    password: 'NDUCI@cse3042',
 })
 
 

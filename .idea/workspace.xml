@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84022201-fc5c-4df9-b220-7a22e2c7c53f" name="Default Changelist" comment="small edits" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Devin Yasith De Silva &lt;57395782+devindesilva@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/CS3042-Gr-10/CBS-1.0" />
+        <option value="https://github.com/DevinDeSilva/CBS-1.0" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1lYmBkvr3SzMANN7em73eZ1kLAo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="consents" />
+    <property name="standardjs.codestyle.accepted" value="true" />
+    <property name="ts.external.directory.path" value="C:\Users\ACER\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.7148.54\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Academic_PC\Sem 4\DBMS\Project\CBS-1.0\app\views" />
+      <recent name="D:\Academic_PC\Sem 4\DBMS\CBS-1.0\app\views" />
+      <recent name="D:\Academic_PC\Sem 4\DBMS\CBS-1.0\common\Emailer" />
+      <recent name="D:\Academic_PC\Sem 4\DBMS\CBS-1.0\common" />
+      <recent name="D:\Academic_PC\Sem 4\DBMS\CBS-1.0\app\Middleware" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Academic_PC\Sem 4\DBMS\CBS-1.0\app\Middleware" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84022201-fc5c-4df9-b220-7a22e2c7c53f" name="Default Changelist" comment="Initial Routing Fixes #3" />
+      <created>1607782267028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607782267028</updated>
+      <workItem from="1607782268847" duration="973000" />
+      <workItem from="1608356901347" duration="8942000" />
+      <workItem from="1608516754191" duration="4941000" />
+      <workItem from="1608718447223" duration="601000" />
+      <workItem from="1608723983126" duration="1831000" />
+      <workItem from="1608982597960" duration="4748000" />
+      <workItem from="1609174470363" duration="1330000" />
+      <workItem from="1609211929019" duration="9223000" />
+      <workItem from="1609569273727" duration="721000" />
+      <workItem from="1609642538521" duration="9336000" />
+      <workItem from="1609816213456" duration="13236000" />
+      <workItem from="1609912684808" duration="19076000" />
+      <workItem from="1610252598209" duration="4953000" />
+      <workItem from="1610475561573" duration="2114000" />
+      <workItem from="1610505626339" duration="5008000" />
+      <workItem from="1610681568685" duration="860000" />
+      <workItem from="1610683651549" duration="2417000" />
+      <workItem from="1610777498218" duration="6696000" />
+      <workItem from="1611383427668" duration="1225000" />
+      <workItem from="1611469514943" duration="2473000" />
+      <workItem from="1611932821219" duration="674000" />
+      <workItem from="1612249245885" duration="23851000" />
+      <workItem from="1612285903826" duration="7864000" />
+      <workItem from="1612317779588" duration="16998000" />
+      <workItem from="1612367789492" duration="2157000" />
+      <workItem from="1612428910241" duration="3011000" />
+      <workItem from="1612432721465" duration="1027000" />
+      <workItem from="1612435538046" duration="23105000" />
+      <workItem from="1612608364934" duration="40610000" />
+      <workItem from="1612839459395" duration="21707000" />
+      <workItem from="1612922643338" duration="10861000" />
+      <workItem from="1612978339004" duration="6000" />
+      <workItem from="1613013533050" duration="3002000" />
+      <workItem from="1613022288791" duration="728000" />
+      <workItem from="1613041358195" duration="666000" />
+      <workItem from="1613101531110" duration="4895000" />
+      <workItem from="1613294425499" duration="46818000" />
+      <workItem from="1613533672099" duration="17067000" />
+      <workItem from="1613971821600" duration="17384000" />
+      <workItem from="1614148523217" duration="16171000" />
+      <workItem from="1614206405490" duration="705000" />
+      <workItem from="1614358675051" duration="578000" />
+      <workItem from="1614426132254" duration="154000" />
+      <workItem from="1614426306393" duration="815000" />
+      <workItem from="1614490034942" duration="15790000" />
+      <workItem from="1614573834568" duration="21078000" />
+      <workItem from="1614600257534" duration="804000" />
+      <workItem from="1614601314545" duration="54000" />
+      <workItem from="1614603010964" duration="6275000" />
+      <workItem from="1614616477773" duration="20772000" />
+      <workItem from="1614680248168" duration="22181000" />
+      <workItem from="1614747087134" duration="466000" />
+      <workItem from="1614750483291" duration="11507000" />
+    </task>
+    <task id="LOCAL-00028" summary="merged with upstream developer">
+      <created>1612843714583</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1612843714583</updated>
+    </task>
+    <task id="LOCAL-00029" summary="adding Account to existing customer functionality Fixes #39">
+      <created>1612931974019</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1612931974019</updated>
+    </task>
+    <task id="LOCAL-00030" summary="adding Account to existing customer functionality tested Fixes #39">
+      <created>1612933154750</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1612933154750</updated>
+    </task>
+    <task id="LOCAL-00031" summary="midpoints">
+      <created>1613101915100</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1613101915100</updated>
+    </task>
+    <task id="LOCAL-00032" summary="merge and resolve developer">
+      <created>1613102331512</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1613102331512</updated>
+    </task>
+    <task id="LOCAL-00033" summary="merge and resolve developer">
+      <created>1613302330769</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1613302330769</updated>
+    </task>
+    <task id="LOCAL-00034" summary="before merge">
+      <created>1613321900281</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1613321900281</updated>
+    </task>
+    <task id="LOCAL-00035" summary="before merge">
+      <created>1613365931631</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1613365931631</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Adding email sending functionality to customer creation and employee creation fixes #37">
+      <created>1613456954744</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1613456954744</updated>
+    </task>
+    <task id="LOCAL-00037" summary="additions">
+      <created>1613501952312</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1613501952312</updated>
+    </task>
+    <task id="LOCAL-00038" summary="loan request from employee done.&#10;withdrawing and depositing done.">
+      <created>1613547114821</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1613547114821</updated>
+    </task>
+    <task id="LOCAL-00039" summary="resolved and merged with developer">
+      <created>1613548179740</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1613548179740</updated>
+    </task>
+    <task id="LOCAL-00040" summary="sample commit">
+      <created>1613726077511</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1613726077511</updated>
+    </task>
+    <task id="LOCAL-00041" summary="adding registration of oraganization adding accounts functionality">
+      <created>1613736870501</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1613736870501</updated>
+    </task>
+    <task id="LOCAL-00042" summary="additional fields for employee">
+      <created>1613737689418</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613737689418</updated>
+    </task>
+    <task id="LOCAL-00043" summary="registration of organization reformatted">
+      <created>1613739199343</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1613739199343</updated>
+    </task>
+    <task id="LOCAL-00044" summary="removing errors in login and completing bank manager home">
+      <created>1613826296454</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1613826296454</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added loan details functionality">
+      <created>1613833866599</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1613833866599</updated>
+    </task>
+    <task id="LOCAL-00046" summary="resolved and merged with developer">
+      <created>1613834002010</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1613834002010</updated>
+    </task>
+    <task id="LOCAL-00047" summary="error corrections">
+      <created>1613838083412</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1613838083412</updated>
+    </task>
+    <task id="LOCAL-00048" summary="before merge">
+      <created>1613938165772</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1613938165772</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Report Generation complete need to check front end work fixes #60 and #59 and #56">
+      <created>1613980460784</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1613980460784</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Adding functionality to change password and username fixes #48">
+      <created>1613988909026</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1613988909027</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Customer FD mid way done #49">
+      <created>1614155141272</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1614155141273</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Customer FD mid way done #49">
+      <created>1614160995077</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1614160995077</updated>
+    </task>
+    <task id="LOCAL-00053" summary="transfer funds done #50">
+      <created>1614163355669</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1614163355669</updated>
+    </task>
+    <task id="LOCAL-00054" summary="completing #51 fixing #52">
+      <created>1614490478267</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1614490478268</updated>
+    </task>
+    <task id="LOCAL-00055" summary="complete #52">
+      <created>1614542314816</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1614542314816</updated>
+    </task>
+    <task id="LOCAL-00056" summary="complete #52">
+      <created>1614578326434</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1614578326434</updated>
+    </task>
+    <task id="LOCAL-00057" summary="adding something.">
+      <created>1614583388550</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1614583388550</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Check FD is done">
+      <created>1614587196612</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1614587196612</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Apply self loan of customer #54 done">
+      <created>1614593548479</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1614593548480</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Apply self loan">
+      <created>1614612326562</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1614612326562</updated>
+    </task>
+    <task id="LOCAL-00061" summary="pay for loan complete">
+      <created>1614657739210</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1614657739210</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Access Levels complted">
+      <created>1614674068969</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1614674068969</updated>
+    </task>
+    <task id="LOCAL-00063" summary="merge and resolved">
+      <created>1614674428009</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1614674428009</updated>
+    </task>
+    <task id="LOCAL-00064" summary="routing improvement">
+      <created>1614693456367</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1614693456367</updated>
+    </task>
+    <task id="LOCAL-00065" summary="routing improvement">
+      <created>1614696556040</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1614696556040</updated>
+    </task>
+    <task id="LOCAL-00066" summary="profiles updated">
+      <created>1614701338055</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1614701338055</updated>
+    </task>
+    <task id="LOCAL-00067" summary="report generation error correction">
+      <created>1614747169041</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1614747169042</updated>
+    </task>
+    <task id="LOCAL-00068" summary=" improvements to front end">
+      <created>1614751981234</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1614751981235</updated>
+    </task>
+    <task id="LOCAL-00069" summary=" improvements to front end">
+      <created>1614752874344</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1614752874344</updated>
+    </task>
+    <task id="LOCAL-00070" summary="improving a bit of front end">
+      <created>1614755445524</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1614755445524</updated>
+    </task>
+    <task id="LOCAL-00071" summary="workspace.xml">
+      <created>1614756124563</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1614756124563</updated>
+    </task>
+    <task id="LOCAL-00072" summary="merged and resolved development">
+      <created>1614756345513</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1614756345513</updated>
+    </task>
+    <task id="LOCAL-00073" summary="bm_dashboard.hbs">
+      <created>1614756541029</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1614756541029</updated>
+    </task>
+    <task id="LOCAL-00074" summary="error reformatting">
+      <created>1614757578147</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1614757578148</updated>
+    </task>
+    <task id="LOCAL-00075" summary="url errors">
+      <created>1614758159412</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1614758159412</updated>
+    </task>
+    <task id="LOCAL-00076" summary="small edits">
+      <created>1614761868031</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1614761868031</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding functionality to change password and username fixes #48" />
+    <MESSAGE value="Customer FD mid way done #49" />
+    <MESSAGE value="Customer FD mid way done #50" />
+    <MESSAGE value="transfer funds done #50" />
+    <MESSAGE value="middle ground" />
+    <MESSAGE value="completing #51 fixing #52" />
+    <MESSAGE value="complete #52" />
+    <MESSAGE value="adding something." />
+    <MESSAGE value="Check FD is done" />
+    <MESSAGE value="Apply self loan of customer #54 done" />
+    <MESSAGE value="Apply self loan" />
+    <MESSAGE value="pay for loan complete" />
+    <MESSAGE value="Access Levels complted" />
+    <MESSAGE value="merge and resolved" />
+    <MESSAGE value="routing improvement" />
+    <MESSAGE value="profiles updated" />
+    <MESSAGE value="report generation error correction" />
+    <MESSAGE value=" improvements to front end" />
+    <MESSAGE value="improving a bit of front end" />
+    <MESSAGE value="workspace.xml" />
+    <MESSAGE value="merged and resolved development" />
+    <MESSAGE value="bm_dashboard.hbs" />
+    <MESSAGE value="error reformatting" />
+    <MESSAGE value="url errors" />
+    <MESSAGE value="small edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="small edits" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/schema/Employee.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

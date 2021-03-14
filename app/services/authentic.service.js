@@ -1,9 +1,21 @@
-var authenticModel = require("../models/authentic.model");
+const authenticModel = require("../models/authentic.model");
 
 
-var authenticService = {
+const authenticService = {
     authentic: authentic,
-    signup:signup
+    changePassword,
+    changeUsername,
+};
+
+function changeUsername(data,user_id){
+    return  new Promise((resolve, reject)=>{
+        authenticModel.changeUsername(data,user_id).then((data)=>{
+            resolve(data)
+        }).catch((err) => {
+            console.log(err)
+            reject(err);
+        })
+    });
 }
 
 function authentic(authenticData) {
@@ -11,22 +23,22 @@ function authentic(authenticData) {
         authenticModel.authentic(authenticData).then((data)=>{
             resolve(data);
         }).catch((err) => {
+            console.log(err)
             reject(err);
         })
     })
    
 }
 
-function signup(signUpData) {
-    
-    return new Promise((resolve,reject) => {
-        authenticModel.signup(signUpData).then((data)=>{
-            resolve(data);
+function changePassword(data,user_id){
+    return  new Promise((resolve, reject)=>{
+        authenticModel.changePassword(data,user_id).then((data)=>{
+            resolve(data)
         }).catch((err) => {
+            console.log(err)
             reject(err);
         })
-    })
-   
+    });
 }
 
 
